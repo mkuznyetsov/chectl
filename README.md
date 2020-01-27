@@ -53,7 +53,7 @@ $ bash <(curl -sL  https://www.eclipse.org/che/chectl/)
 ```
 $ bash <(curl -sL  https://www.eclipse.org/che/chectl/) --channel=next
 ```
-
+``
 Assemblies of chectl are available at [https://github.com/che-incubator/chectl/releases](https://github.com/che-incubator/chectl/releases)
 
 Manual install:
